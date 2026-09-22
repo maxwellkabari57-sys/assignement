@@ -1,4 +1,6 @@
 // units taken
+// author: Maxwell kabari
+// admission number: BCS-05-0073/2026
 
 #include<stdio.h>
 
