@@ -1,4 +1,7 @@
 //a program for calculating simple inerest
+//Author:maxwell kabari
+//admn: BCS-05-00073/2026
+
 
 #include<stdio.h>
 
