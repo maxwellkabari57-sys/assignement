@@ -1,4 +1,9 @@
 //program to display from 100 to 50 in descending order
+//Aurthor:MAXWELL KABARI
+//Admn: BCS-05-0073/2026
+//Course : Computer Science
+
+
 #include <stdio.h>
 int main()
 {
